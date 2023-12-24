@@ -1,0 +1,27 @@
+Privacy Policy
+
+DeathNote respects and protects the privacy of its users. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application.
+
+Information Collection and Use
+
+Our music player application requires certain permissions to provide its core functionality:
+
+Audio Permission: We request access to your device's audio to enable playback of music within the application.
+Storage Permission: We ask for permission to access your device's local storage to retrieve and organize MP3 files for playback within the application.
+We collect and use this information solely to enhance your experience with our app, including features such as "Recently Added," "Favorite Tracks," "Playlists," and "Recently Played." We do not share this information with third parties unless required by law or for essential app functionality.
+
+Data Security
+
+We take the security of your data seriously and implement industry-standard security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information.
+
+Children's Privacy
+
+Our application is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe that we may have collected personal information from a child, please contact us immediately to address the issue.
+
+Changes to This Privacy Policy
+
+We reserve the right to update or make changes to this Privacy Policy at any time. We recommend reviewing this policy periodically for any modifications. Your continued use of the application after any changes are made will signify your acknowledgment and acceptance of the new terms.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the practices of our application, please contact us at Aromalskumar97148@gmail.com .
